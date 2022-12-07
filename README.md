@@ -1,2 +1,2 @@
-# Generador-de-CV
-Generador de curriculums creado mediante el manejo del DOM
+# CV Generator
+Curriculum Vitae generator created with DOM handling
